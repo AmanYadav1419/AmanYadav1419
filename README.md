@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on E-Commerce-website<br>👯 I’m looking to collaborate on E-Commerce-website<br>🤝 I’m looking for help with Backend React <br>🌱 I’m currently learning Flutter Backend Figma<br>💬 Ask me about Python Video Editing Photo Editing<br>⚡ Fun fact i am quite good and fast learner 😁
 
 
 ## 🌐 Socials:
