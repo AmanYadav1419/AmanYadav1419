@@ -16,7 +16,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=AmanYadav1419&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Holopin Badegs :
-[![Holopin](https://holopin.onrender.com/AmanYadav1419)](https://holopin.io/@AmanYadav1419)
+[![An image of @amanyadav1419's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amanyadav1419)](https://holopin.io/@amanyadav1419)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
