@@ -10,6 +10,8 @@
 # 📊 GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanYadav1419&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
+## GitHub Streak:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AmanYadav1419)](https://git.io/streak-stats)
 
 ### Github trophies 🏆:
 [![trophy](https://github-profile-trophy.vercel.app/?username=AmanYadav1419&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
