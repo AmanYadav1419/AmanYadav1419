@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on react-projects<br>👯 I’m looking to collaborate on v<br>🤝 I’m looking for help with Backend React <br>🌱 I’m currently learning Next with Backend Figma<br>💬 Ask me about React | Video Editing | Photo Editing<br>⚡ Fun fact i am quite good and fast learner 😁
+🔭 I’m currently working on my final-year-project-next<br>👯 I’m looking to collaborate on Ai-mock-Interview<br>🤝 I’m looking for help with Backend and Next.js<br>🌱 I’m currently learning Next with Backend Figma<br>💬 Ask me about React | Video Editing | Photo Editing<br>⚡ Fun fact i am quite good and fast learner 😁
 
 
 ## 🌐 Socials:
