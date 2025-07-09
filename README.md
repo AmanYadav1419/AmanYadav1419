@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on EchoChain<br>👯 I’m looking for Opportunities in Fullstack Development & Web3 Space<br>🤝 I’m looking for help with Solidity Integration with ReactJS/NextJS<br>🌱 I’m currently exploring NextJS , Solidity<br>💬 Ask me about React | Video Editing | Photo Editing<br>⚡ Fun fact i am quite good and fast learner 😁
+🔭 I’m currently working on Learning GenAI<br>👯 I’m looking for Opportunities in Fullstack Development & Web3 Space<br>🤝 I’m looking for help with Soliditiy Integration with ReactJS/NextJS<br>🌱 I’m currently exploring NextJS , GenAI, AI-ML<br>💬 Ask me about React | Video Editing | Photo Editing<br>⚡ Fun fact i am quite good and fast learner 😁
 
 
 ## 🌐 Socials:
