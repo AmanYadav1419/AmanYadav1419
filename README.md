@@ -19,13 +19,14 @@
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AmanYadav1419&layout=compact&theme=tokyonight)
 
 ### Github trophies 🏆:
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=AmanYadav1419&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Holopin Badegs :
 [![An image of @amanyadav1419's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amanyadav1419)](https://holopin.io/@amanyadav1419)
 
 ### Contribution Graph :
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmanYadav1419&bg_color=0e0108&color=1fb759&line=0bda24&point=1e950e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmanYadav1419)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 ### ✍️ Random Dev Quote
